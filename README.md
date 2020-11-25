@@ -7,12 +7,12 @@ See it for yourselves,
 Apparently, Micro$oft choose $$$ over user feedback and experience. So, bye GitHub 🖐️👋
 
 ### Linaro/ ARM
-gcc-arm-8.x-20xx.xx-x86_64-aarch64-elf toolchain
+gcc-arm-(8.x-9.x)-20xx.xx-x86_64-aarch64(-none)-elf toolchain
 
 ### Clone this repository
 ```
-git clone https://gitlab.com/GrowtopiaJaw/aarch64-linux-android-8.x.git -b master
+git clone https://gitlab.com/GrowtopiaJaw/aarch64-linux-android-8.x-9.x.git -b master
 ```
 
-Source: (x86_64 hosted cross compilers) (AArch64 ELF bare-metal target (aarch64-elf))
+Source: (x86_64 Linux hosted cross compilers) (AArch64 ELF bare-metal target (aarch64-none-elf))
 https://developer.arm.com/open-source/gnu-toolchain/gnu-a/downloads
